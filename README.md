@@ -15,4 +15,4 @@ Knihovny lze nainstalovat pomoc� pip:
 NAP�. pip install beautifulsoup4 
 NEBO pip install -r requirements.txt
 
-UK�ZKA: python main.py "https://volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=12&xnumnuts=7103" "vysledek_volby.csv"
+UK�ZKA: python main.py "https://volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=12&xnumnuts=7103" vysledek_volby.csv
